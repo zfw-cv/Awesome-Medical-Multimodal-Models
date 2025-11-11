@@ -1,3 +1,8 @@
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![](https://img.shields.io/github/last-commit/zfw-cv/Awesome-Medical-Multimodal-Models?color=green)
+![](https://img.shields.io/badge/PaperNumber-269-brightgreen)
+
 # 🏥 Awesome Medical Multimodal Models (MMMs) | AI for Healthcare (AI4Health) | AI for Science (AI4Science)
 ## 🧭 Guideline
 A Curated Collection of **Medical Multimodal Models (MMMs)**, to make it easier to find and learn. 👏 Contributions to this hub are welcome!
@@ -9,7 +14,8 @@ A Curated Collection of **Medical Multimodal Models (MMMs)**, to make it easier 
   - [🗃️ Dataset Lists](#️-dataset-lists)
   - [📖 Papers](#-papers)
     - [Benchmarks](#benchmarks)
-    - [Physics-AI](#physics-ai)
+    - [Foundation-model](#foundation-model)
+    - [Vision-language-model](#vision-language-model)
     - [Datasets](#datasets)
     - [More](#more)
   - [🚀 Code](#-code)
@@ -22,7 +28,7 @@ A Curated Collection of **Medical Multimodal Models (MMMs)**, to make it easier 
 </details>
 
 ## 🗂️ MMMs Lists
-| LWM name     | From            | Date(1st) | Publication | Links                                     | Model Licence                    |Weights Licence       |
+| MMMs name     | From            | Date(1st) | Publication | Links                                     | Model Licence                    |Weights Licence       |
 <!-- | GenCast      | Google DeepMind       | 2023.12         | Nature      | [[paper]](https://www.nature.com/articles/s41586-024-08252-9) [[github]](https://github.com/google-deepmind/graphcast) | [[Apache 2.0]](https://github.com/google-deepmind/graphcast/blob/main/LICENSE)             | [[CC-BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | GEML     |  Environment and Climate Change Canada      | 2025.06         | -               | [[Documentation]](https://eccc-msc.github.io/open-data/msc-data/nwp_gdps/readme_gdps-geml-datamart_en/)<br>[[Hugging Face]](https://huggingface.co/ECCC-ASTD-MRD/geml)  | [[Apache 2.0]](https://github.com/csubich/graphcast/blob/graphcast_train/LICENSE)          | [Open Government Licence](https://huggingface.co/ECCC-ASTD-MRD/geml/blob/main/LICENSE.txt) -->
 
@@ -44,7 +50,9 @@ A Curated Collection of **Medical Multimodal Models (MMMs)**, to make it easier 
 ### WeatherBench
 <!-- - WeatherBench: A benchmark dataset for data-driven weather forecasting [[pdf]](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020MS002203)
 - WeatherBench 2: A benchmark for the next generation of data-driven global weather models [[pdf]](https://arxiv.org/pdf/2308.15560) -->
-### Physics-AI
+### Foundation-model
+
+### Vision-language-model
 <!-- - NeuralGCM: Neural General Circulation Models for Weather and Climate [[pdf]](https://arxiv.org/pdf/2311.07222)
 - ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs [[pdf]](https://arxiv.org/pdf/2404.10024)
 - Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[pdf]](https://arxiv.org/pdf/2405.13796) -->
