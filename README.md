@@ -46,7 +46,7 @@ A Curated Collection of **Medical Multimodal Models (MMMs)**, to make it easier 
 
 ## 📖 Papers
 
-### WeatherBench
+### Benchmarks
 <!-- - WeatherBench: A benchmark dataset for data-driven weather forecasting [[pdf]](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020MS002203)
 - WeatherBench 2: A benchmark for the next generation of data-driven global weather models [[pdf]](https://arxiv.org/pdf/2308.15560) -->
 ### Foundation-model
